@@ -2,5 +2,3 @@
 
 
 gauriapp.py - streamlit app sourcecode
-
-other files - flask work
